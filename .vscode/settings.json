@@ -1,0 +1,9 @@
+{
+    
+    "auto-rename-tag.activationOnLanguage": [
+        "html",
+        "xml",
+        "php",
+        "javascript"
+    ]
+}
